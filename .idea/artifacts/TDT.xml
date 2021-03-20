@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TDT">
+    <output-path>$PROJECT_DIR$/out/artifacts/TDT</output-path>
+    <root id="archive" name="TDT.jar">
+      <element id="module-output" name="Textile-Development-Tool" />
+    </root>
+  </artifact>
+</component>
